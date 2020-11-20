@@ -1,20 +1,11 @@
-# TelemetryDemo
+# Telemetry Demo
+## Counter
 
-To start your Phoenix server:
-
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Install Node.js dependencies with `npm install` inside the `assets` directory
-  * Start Phoenix endpoint with `mix phx.server`
-
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+## Reference Video
+[https://youtu.be/wLALD44vNzw](https://youtu.be/wLALD44vNzw)
 
 ## Learn more
 
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+  * Plangora Official website: [https://www.plangora.com/](https://www.plangora.com/)
+  * Plangora YouTube Channel: [https://www.youtube.com/c/Plangora](https://www.youtube.com/c/Plangora)
+  * Phoenix Telemetry Playlist: [https://www.youtube.com/playlist?list=PL6gboNCsWvTcGV8ikqBi7rCekEQ_2RrhO(https://www.youtube.com/playlist?list=PL6gboNCsWvTcGV8ikqBi7rCekEQ_2RrhO)

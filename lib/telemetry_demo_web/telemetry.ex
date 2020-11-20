@@ -36,6 +36,7 @@ defmodule TelemetryDemoWeb.Telemetry do
       summary("telemetry_demo.repo.query.query_time", unit: {:native, :millisecond}),
       summary("telemetry_demo.repo.query.queue_time", unit: {:native, :millisecond}),
       summary("telemetry_demo.repo.query.idle_time", unit: {:native, :millisecond}),
+      counter("telemetry_demo.interesting_function.count"),
 
       # VM Metrics
       summary("vm.memory.total", unit: {:byte, :kilobyte}),
