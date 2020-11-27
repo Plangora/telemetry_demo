@@ -1,8 +1,8 @@
 # Telemetry Demo
-## Counter
+## Last Value
 
 ## Reference Video
-[https://youtu.be/wLALD44vNzw](https://youtu.be/wLALD44vNzw)
+[https://youtu.be/WJCyCzl5Lt4](https://youtu.be/WJCyCzl5Lt4)
 
 ## Learn more
 
